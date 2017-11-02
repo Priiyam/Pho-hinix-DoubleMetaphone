@@ -1,6 +1,4 @@
 # Ph-hinix using Double Metaphone
 
-### Project was done using JAVA 
-
-
-
+- Phonetic for Hindi Language using JAVA
+- It leverages the Double Metaphone algorithm for English phonetics
